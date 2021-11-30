@@ -1,0 +1,4 @@
+rootProject.name = 'Gradle_Multi_Module'
+include 'Calculator'
+include 'MainClass'
+
